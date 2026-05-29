@@ -35,3 +35,6 @@ test_out.txt
 # Local generated output and tool state
 graphify-out/
 .agents/
+
+# Local master profile files
+*MASTER*
